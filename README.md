@@ -1,6 +1,5 @@
 # Queque-library-C
 
-Queue implementation in C
 This program provides a basic implementation of a queue data structure in C programming language. The code includes the following functions:
 
 createQueue(): This function creates a new queue and returns a pointer to the created queue.
