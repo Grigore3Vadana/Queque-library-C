@@ -19,7 +19,7 @@ int main()
         printf("Coada este goala!\n");
     else
         printf("Coada nu este goala!\n");
-
+ 
     while (!(isEmpty(q)))
         printf("%d ", deQueue(q));
     printf("\n");
