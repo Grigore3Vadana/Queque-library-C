@@ -55,4 +55,4 @@ void deleteQueue(Queue *q)
         free(aux);
     }
     free(q);
-}
+} 
