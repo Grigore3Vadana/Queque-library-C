@@ -23,3 +23,4 @@ void enQueue(Queue *, Data);
 Data deQueue(Queue *);
 bool isEmpty(Queue *);
 void deleteQueue(Queue *);
+ 
